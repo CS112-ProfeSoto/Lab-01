@@ -1,5 +1,5 @@
 ![java logo](instructions/java-logo-vector.png)
-# Lab #01 - Hello CS112!
+# Lab 01 - Hello CS112!
 Welcome back, Java developers! We got some challenging material ahead, so it's probably a good idea to brush off the dust and rust and reestablish our fundamentals before we venture into new challenges!
 
 For each part, you'll work in your group and we'll debrief as a class on vocab words for the part, key topics and concepts, pitfalls, tips and tricks, and anything else that comes to mind to help each other review as much as possible.
